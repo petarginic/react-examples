@@ -1,0 +1,19 @@
+@mixin startSettings {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+}
+
+@mixin flex($direction, $content, $items) {
+    display: flex;
+    flex-direction: $direction;
+    justify-content: $content;
+    align-items: $items;
+}
+
+@mixin media($breakpoint) {
+  @media screen and (max-width: $breakpoint) {
+      @content;
+  }
+}

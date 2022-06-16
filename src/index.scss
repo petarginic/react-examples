@@ -1,0 +1,107 @@
+@import './assets/scss/index';
+@import './components/index';
+
+@include startSettings;
+
+.fade-enter {
+    opacity: 0;
+    z-index: 1;
+}
+
+.fade-enter.fade-enter-active {
+    opacity: 1;
+    transition: opacity 1000ms ease-in;
+}
+
+.main {
+    background-color: #bdd4e7;
+    background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
+
+    padding-top: 10%;
+    padding-bottom: 10%;
+    min-height: 100vh;
+    height: fit-content;
+    .todo-container {
+        min-height: 80vh;
+        height: fit-content;
+        width: 80vw;
+        background-color: #0cbaba;
+        background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
+        border-radius: 2rem;
+        padding: 3rem;
+
+        .todo-header {
+            display: flex;
+            flex-direction: column;
+
+            .title {
+                display: flex;
+                justify-content: space-between;
+                color: white;
+            }
+
+            .todo-welcome {
+                color: white;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                padding-top: 4rem;
+                padding-bottom: 3rem;
+            }
+        }
+
+        .todo-duty {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+
+            button {
+                margin-left: 1rem;
+                margin-top: 1rem;
+            }
+        }
+    }
+}
+
+.buttons-page {
+    background-color: #e9bcb7;
+    background-image: linear-gradient(315deg, #e9bcb7 0%, #29524a 74%);
+    min-height: 100vh;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .buttons-container {
+        height: 50vh;
+        width: 50vw;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #485461;
+        background-image: linear-gradient(315deg, #485461 0%, #28313b 74%);
+        border-radius: 4rem;
+
+        button {
+            margin-left: 1rem;
+            width: 7rem;
+            height: 4rem;
+            border-radius: 0.3rem;
+        }
+    }
+}
+
+.footballer-details {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    align-items: center;
+    justify-self: center;
+    gap: 3rem;
+
+    .name {
+        font-weight: 700;
+        font-size: 2rem;
+    }
+}

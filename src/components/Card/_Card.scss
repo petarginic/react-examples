@@ -1,0 +1,25 @@
+.card {
+    padding: 1rem;
+    cursor: pointer;
+
+    margin: 1rem;
+    width: 20rem;
+
+    background-color: #485461;
+    background-image: linear-gradient(315deg, #485461 0%, #28313b 74%);
+
+    p {
+        color: white;
+    }
+
+    h5 {
+        color: white;
+        padding: 1rem;
+    }
+
+    .card-image {
+        height: 20rem;
+        width: 17rem;
+        border-radius: 2rem;
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "footballers": [
+        {
+            "id": 101,
+            "name": "Cristiano Ronaldo",
+            "front_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cristiano_Ronaldo_2018.jpg/220px-Cristiano_Ronaldo_2018.jpg",
+            "back_image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/190px-Manchester_United_FC_crest.svg.png",
+            "team": "Manchester United",
+            "position_name": "Striker",
+            "number": "7",
+            "bio": "Cristiano Ronaldo dos Santos Aveiro (born 5 February 1985) is a Portuguese professional footballer who plays as a forward for Premier League club Manchester United and captains the Portugal national team. Often considered the best player in the world and widely regarded as one of the greatest players of all time, Ronaldo has won five Ballon d'Or awards[note 3] and four European Golden Shoes, the most by a European player. He has won 32 trophies in his career, including seven league titles, five UEFA Champions Leagues, one UEFA European Championship, and one UEFA Nations League. Ronaldo holds the records for most appearances (183), most goals (140), and assists (42) in the Champions League, most goals in the European Championship (14), most international goals by a male player (115), and most international appearances by a European male (186). He is one of the few players to have made over 1,100 professional career appearances, and has scored over 800 official senior career goals for club and country."
+        },
+
+        {
+            "id": 102,
+            "name": "Lionel Messi",
+            "front_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lionel_Messi_20180626.jpg/220px-Lionel_Messi_20180626.jpg",
+            "back_image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/180px-Paris_Saint-Germain_F.C..svg.png",
+            "team": "Paris Saint-Germain",
+            "position_name": "Striker",
+            "number": "10",
+            "bio": "Lionel Andrés Messi  born 24 June 1987), also known as Leo Messi, is an Argentine professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and captains the Argentina national team. Often considered the best player in the world and widely regarded as one of the greatest players of all time, Messi has won a record seven Ballon d'Or awards,[note 2] a record six European Golden Shoes, and in 2020 was named to the Ballon d'Or Dream Team. Until leaving the club in 2021, he had spent his entire professional career with Barcelona, where he won a club-record 35 trophies, including ten La Liga titles, seven Copa del Rey titles and four UEFA Champions Leagues. A prolific goalscorer and creative playmaker, Messi holds the records for most goals in La Liga (474), a La Liga and European league season (50), most hat-tricks in La Liga (36) and the UEFA Champions League (8), and most assists in La Liga (192), a La Liga season (21) and the Copa América (17). He also holds the record for most international goals by a South American male (81). Messi has scored over 750 senior career goals for club and country, and has the most goals by a player for a single club."
+        },
+
+        {
+            "id": 103,
+            "name": "Mohamed Salah",
+            "front_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mohamed_Salah_2018.jpg/220px-Mohamed_Salah_2018.jpg",
+            "back_image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/180px-Liverpool_FC.svg.png",
+            "team": "Liverpool Football Club",
+            "position_name": "Striker",
+            "number": "11",
+            "bio": "Mohamed Salah Hamed Mahrous Ghaly  born 15 June 1992) is an Egyptian professional footballer who plays as a forward for Premier League club Liverpool and captains the Egypt national team. Considered one of the best players in the world and amongst the greatest African players of all time,[6][7][8] he is known for his finishing, dribbling, and speed.Regarded as a quick, mobile, hard-working and tactical player, with good technique and an eye for goal, Salah is predominantly known for his speed, movement, clinical finishing, agility, dribbling skills, first touch, and ball control, as well as his ability to use both his pace and flair on the ball in order to beat opponents, and create scoring opportunities for himself or his teammates."
+        },
+
+        {
+            "id": 104,
+            "name": "Karim Benzema",
+            "front_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Karim_Benzema_wearing_Real_Madrid_home_kit_2021-2022.jpg/220px-Karim_Benzema_wearing_Real_Madrid_home_kit_2021-2022.jpg",
+            "back_image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/150px-Real_Madrid_CF.svg.png",
+            "team": "Real Madrid",
+            "position_name": "Striker",
+            "number": "9",
+            "bio": "Karim Mostafa Benzema (born 19 December 1987) is a French professional footballer who plays as a striker for La Liga club Real Madrid and the France national team. A creative and prolific forward known for his playmaking and finishing,[4] he is regarded as one of the best forwards of his generation. Born in Lyon to Algerian parents, Benzema began his senior career with hometown club Olympique Lyonnais in 2005, contributing sporadically to three Ligue 1 title wins. In 2008, he was named National Union of Professional Footballers (UNFP) Player of the Year and in the Team of the Year as he finished as the league's top goalscorer and won his fourth title and first Coupe de France. In 2009, Benzema was the subject of a then French record association football transfer when signed for Real Madrid in a transfer worth €35 million."
+        },
+
+        {
+            "id": 105,
+            "name": "Robert Lewandowski",
+            "front_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2019147183134_2019-05-27_Fussball_1.FC_Kaiserslautern_vs_FC_Bayern_M%C3%BCnchen_-_Sven_-_1D_X_MK_II_-_0228_-_B70I8527_%28cropped%29.jpg/220px-2019147183134_2019-05-27_Fussball_1.FC_Kaiserslautern_vs_FC_Bayern_M%C3%BCnchen_-_Sven_-_1D_X_MK_II_-_0228_-_B70I8527_%28cropped%29.jpg",
+            "back_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/180px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
+            "team": "Bayern Munich",
+            "position_name": "Striker",
+            "number": "9",
+            "bio": "Robert Lewandowski  born 21 August 1988) is a Polish professional footballer who plays as a striker for Bundesliga club Bayern Munich and is the captain of the Poland national team. Recognized for his positioning, technique and finishing, Lewandowski is considered one of the best strikers of all time, as well as one of the most successful players in Bundesliga history. He has scored over 600 senior career goals for club and country."
+        },
+
+        {
+            "id": 106,
+            "name": "Zlatan Ibrahimović",
+            "front_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Zlatan_Ibrahimovi%C4%87_June_2018.jpg/220px-Zlatan_Ibrahimovi%C4%87_June_2018.jpg",
+            "back_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/125px-Logo_of_AC_Milan.svg.png",
+            "team": "AC Milan",
+            "position_name": "Striker",
+            "number": "21",
+            "bio": "Zlatan Ibrahimović  born 3 October 1981) is a Swedish professional footballer who plays as a striker for Serie A club AC Milan and the Sweden national team. He has been described as one of the greatest strikers of all time.[3][4][5][6][7] Ibrahimović is one of the most decorated active footballers in the world,[a] having won 32 trophies in his career.[10] He has scored over 570 career goals, including more than 500 club goals,[11] and has scored in each of the last four decades."
+        }
+    ]
+}
